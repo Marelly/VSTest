@@ -1,7 +1,7 @@
 public class Test{
     public static void main(String[] args) {
         String x = "Test";
+        System.out.println(x);
         String y = "Test3";
-        System.out.println(x+y);
     }
 }
